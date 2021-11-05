@@ -1,4 +1,7 @@
-Hey
+I'm a systems engineering student from La Paz, Bolivia, interested in android and web development. 
+
+Also love anything that has to do with cibersecurity and hacking.
+
 
 <!--
 **ErickMartinez77/ErickMartinez77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

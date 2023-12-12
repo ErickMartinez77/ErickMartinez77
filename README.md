@@ -1,4 +1,4 @@
-I'm a systems engineering student from La Paz, Bolivia, interested in web development and anything that has to do with cibersecurity and hacking.
+I'm a systems engineering student from La Paz, Bolivia, interested in web development and anything that has to do with cybersecurity and hacking.
 
 
 <!--
